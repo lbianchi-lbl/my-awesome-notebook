@@ -1,0 +1,13 @@
+name: us-rse23-web-application
+channels:
+  - conda-forge
+  - defaults
+  - anaconda
+dependencies:
+  - python=3.7
+  - jupyterlab
+  - matplotlib
+  - networkx
+  - voila
+  - ipywidgets
+
